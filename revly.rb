@@ -2,7 +2,7 @@ class Revly < Formula
   desc "Revly CLI - AI Code Review Assistant for commits, stashes and unstashes"
   homepage "https://github.com/nareshkarthigeyan/revly"
   url "https://github.com/nareshkarthigeyan/revly/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  sha256 "024972fe26c1428dc5739ba54352a9163e48190ff12e6cf86b4172763443641d"
   license "MIT"
 
   depends_on "go" => :build
